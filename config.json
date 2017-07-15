@@ -1,0 +1,17 @@
+[
+  {
+    "Table1_Good.csv":
+    {
+      "coverage": [20, 1],
+      "mean": [22, 3]
+    }
+  },
+
+  {
+    "Table1_Bad.csv":
+    {
+      "coverage": [20, 1],
+      "mean": [22, 3]
+    }
+  }
+]
